@@ -93,9 +93,6 @@ To run this project locally, you need to have Python installed along with the ne
 - **Model Evaluation**: Implement techniques like cross-validation and evaluation metrics (e.g., Mean Squared Error) to assess model performance.
 - **Visualization**: Plot the data and the regression line to better understand the model's predictions.
 
-## License
-
-This project is open-source and available under the MIT License.
 
 ---
 
